@@ -5,7 +5,23 @@
 The **Student Attention Monitoring System** is a computer-vision based application that helps track and analyze a student's attentiveness during online or offline learning sessions.  
 Using a webcam feed, the system detects the student’s face and eyes, estimates head pose, and infers whether the student is focused on the screen or distracted.
 
-This project is intended for educational and research purposes, to demonstrate how classical computer vision and basic machine learning techniques can be combined to build an attention‑tracking tool.
+## About the Project
+
+This project aims to support **teachers, institutions, and self‑learners** by giving a simple, visual way to understand how focused a student is during a class or study session.
+
+Instead of relying only on tests or manual observation, the system tries to:
+
+- Monitor whether the student is looking at the screen or away
+- Detect periods of low attention (e.g., eyes closed, looking down, looking to the side)
+- Summarize overall attention level during the session (attention percentage)
+
+You can use this system to:
+
+- Analyze attention patterns during online lectures
+- Compare focus levels across different teaching methods or times of day
+- Help students become more aware of their own study habits
+
+This project is mainly for **educational and research purposes**, showing how classical computer vision and basic machine learning techniques can be combined to build an attention‑tracking tool. It is **not** meant to replace teachers or to make high‑stakes decisions about students.
 
 ## Key Features
 
