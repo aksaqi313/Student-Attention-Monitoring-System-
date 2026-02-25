@@ -5,10 +5,7 @@ __pycache__/
 .env
 .venv
 venv/
-ENV/
-venv/
-__pycache__/
-*.pyc
+
 # Distribution / packaging
 dist/
 build/
